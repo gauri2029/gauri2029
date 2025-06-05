@@ -9,13 +9,11 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=gauri2029&color=blue&style=flat-square)
 
 
-
 ## 🔭 What I'm working on
 - Scalable, component-driven Angular apps
 - Cloud-native microservices using .NET & Azure
 - Research-backed AI projects in sentiment analysis and finance
 
----
 
 ## 🚀 Tech Stack & Tools
 
@@ -51,7 +49,6 @@
 ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 
@@ -59,20 +56,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri2029&layout=compact&theme=radical&langs_count=8)
 
----
-
-## 🧠 Notable Projects
-
-### 💰 Expense Tracker | Django, TensorFlow, Matplotlib
-A full-stack finance tracker that goes beyond CRUD. Built using Django and secured with backend validations, it learns your spending habits using a TensorFlow model with 92% prediction accuracy. Matplotlib-driven visualizations help users spot patterns, while Selenium-backed testing ensures everything runs smoothly.
-
-### 🚗 Vehicle Service Automation | React, Python, Firestore
-Designed a smart scheduling platform to streamline vehicle service management. The app uses React for a responsive UI and Firestore for fast, real-time storage. An integrated ML module recommends nearby service centers based on location and ratings, with 88% accuracy. Published results in *IJARSCT (Aug 2023)*.
-
-### 🏥 Healthcare Monitoring App | Angular, Ionic, .NET, SQL Server
-Built a mobile-first healthcare app used by nursing staff in Norway to monitor elderly patients. Developed reusable components in Angular + Ionic and backed them with scalable APIs in .NET. Integrated with Azure for deployment and optimized SQL queries to ensure fast, reliable data delivery, reducing support tickets by 20%.
-
----
 
 ## 🌐 Let's Connect
 
