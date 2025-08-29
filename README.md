@@ -54,7 +54,7 @@
 
 ![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauri2029&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri2029&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri2029&layout=compact&theme=radical&langs_count=5)
 
 
 ## 🌐 Let's Connect
