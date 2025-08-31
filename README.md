@@ -52,9 +52,9 @@
 
 ## 📈 GitHub Stats
 
-![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauri2029&show_icons=true&theme=radical)
+![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauri2029&show_icons=true&include_all_commits=true&rank_icon=github&hide_title=false&theme=radical&show=prs_merged,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri2029&layout=compact&theme=radical&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri2029&layout=compact&langs_count=10&theme=radical&hide=jupyter%20notebook)
 
 
 ## 🌐 Let's Connect
