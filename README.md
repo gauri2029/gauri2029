@@ -9,12 +9,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=gauri2029&color=blue&style=flat-square)
 
 
-## 🔭 What I'm working on
-- Scalable, component-driven Angular apps
-- Cloud-native microservices using .NET & Azure
-- Research-backed AI projects in sentiment analysis and finance
-
-
 ## 🚀 Tech Stack & Tools
 
 ### 💡 Languages & Frameworks
