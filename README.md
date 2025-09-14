@@ -54,7 +54,6 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurimarkandey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff6f61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gauri2029.github.io/)
 [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauri2029@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1NKKmVSA_Wsk12inmkglxaY3mYZ7t7Uxg/view?usp=sharing)
 
