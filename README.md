@@ -4,11 +4,6 @@
 💼 I’ve previously worked as a **Software Engineer** for **2 years** at Tietoevry and am currently a **Software Developer** at IU's Cyberinfrastructure for Network Science Center!
 
 
-## 🔢 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=gauri2029&color=blue&style=flat-square)
-
-
 ## 🚀 Tech Stack & Tools
 
 ### 💡 Languages & Frameworks
