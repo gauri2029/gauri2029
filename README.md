@@ -51,4 +51,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C5CFF?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.gaurimarkandey.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurimarkandey)
 [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauri2029@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1WM6R2zLiC-rLbUajZ9U6JyDOCE1G23ev/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/18Sqk9BWoF2OWuwOGDjTkC_3rtmnv5JB6/view?usp=sharing)
