@@ -4,8 +4,7 @@
 
 ### Frontend Software Engineer building accessible, scalable and user-focused products
 
-I specialize in **React, Angular and TypeScript**, with full-stack experience across
-**Node.js, Spring Boot, C#/.NET, AWS and Docker**.
+I specialise in **React, Angular and TypeScript**, building accessible, responsive and maintainable product experiences. I also bring backend and cloud experience with **Node.js, Spring Boot, .NET, AWS and Docker**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C5CFF?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://www.gaurimarkandey.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gaurimarkandey)
@@ -17,21 +16,22 @@ I specialize in **React, Angular and TypeScript**, with full-stack experience ac
 
 ## ✨ About Me
 
-* 💻 Frontend-focused Software Engineer with **2+ years of production experience**
-* 🧬 Built open-source Angular applications for the **NIH-funded Human Reference Atlas**
-* 🏥 Modernized frontend and full-stack healthcare applications at **Tietoevry**
+* 💻 Frontend-focused Software Engineer with **3 years of software engineering experience**
+* 🧬 Built accessible Angular and TypeScript applications for the **NIH-funded Human Reference Atlas**
+* 🏥 Modernised React and full-stack healthcare products at **Tietoevry**
+* 🤖 Built AI-powered and cloud-native products using React, Spring Boot, AWS, Docker and Kubernetes
 * 🎓 M.S. in Computer Science from **Indiana University Bloomington**
-* 🔎 Open to **Frontend Engineer** and **Full-Stack Software Engineer** opportunities in the US
+* 🔎 Seeking **Frontend Software Engineer** and selected **Full-Stack Engineer** opportunities in the US
 
 ## 🚀 Featured Work
 
 ### 🧬 [Human Reference Atlas](https://github.com/hubmapconsortium/hra-ui)
 
-Open-source Angular and TypeScript applications supporting biomedical exploration and visualization.
+Open-source Angular and TypeScript applications supporting biomedical data exploration, developed with reusable components, RxJS workflows and WCAG-accessible interaction patterns.
 
 `Angular` `TypeScript` `RxJS` `WCAG` `Storybook` `AWS`
 
-> #### 🔍 Explore My Open-Source Contributions
+> #### 🔍 View my merged Human Reference Atlas pull requests
 >
 > View the features, fixes, code reviews, and engineering discussions I contributed to across the Human Reference Atlas ecosystem.
 >
@@ -39,15 +39,15 @@ Open-source Angular and TypeScript applications supporting biomedical exploratio
 
 ### 🤖 [DocuQuery](https://github.com/gauri2029/docuquery)
 
-RAG-powered documentation system that generates source-cited answers using semantic search and production observability.
+AI document intelligence workspace for uploading and querying multiple documents with source-cited answers, document-scoped retrieval and interactive evidence tracing.
 
-`Java` `Spring Boot` `OpenAI` `ChromaDB` `Docker` `Prometheus`
+`React` `TypeScript` `Spring Boot` `OpenAI` `ChromaDB` `PostgreSQL` `Docker`
 
-### 🎓 [Degree Flowchart](https://github.com/degree-flowchart/degree-flowchart-ui)
+### 🎓 [DegreeFlow](https://github.com/degree-flowchart/degree-flowchart-ui)
 
-Cloud-native degree-planning interface with semester planning, prerequisite validation and secure authentication workflows.
+Cloud-native degree planning platform with semester scheduling, prerequisite validation, OAuth 2.0 authentication and Kubernetes-based microservices.
 
-`Angular` `TypeScript` `Spring Boot` `PostgreSQL` `Docker` `Kubernetes`
+`Angular` `TypeScript` `Spring Boot` `PostgreSQL` `Keycloak` `Docker` `Kubernetes`
 
 ### 📚 [IUCAT Library System](https://github.com/gauri2029/iucat)
 
@@ -58,10 +58,10 @@ Full-stack library platform with role-based workflows, REST APIs, automated depl
 ## 🎨 Frontend Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,nextjs,html,css,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,react,angular,js,nextjs,html,css,tailwind,figma" />
 </p>
 
-**Also experienced with:** RxJS, Redux, Storybook, responsive design, design systems and WCAG accessibility.
+**Frontend engineering**: RxJS, Redux, Storybook, responsive design, reusable component libraries, design systems and WCAG accessibility.
 
 ## 🛠️ Full-Stack & Cloud
 
@@ -69,7 +69,11 @@ Full-stack library platform with role-based workflows, REST APIs, automated depl
   <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,java,python,postgres,mongodb,aws,azure,docker,kubernetes,githubactions" />
 </p>
 
-**Engineering:** REST APIs, GraphQL, microservices, CI/CD, Jest, React Testing Library, Selenium, Prometheus and Grafana.
+## ⚙️ Backend & Data
+Node.js, Spring Boot, .NET, REST APIs, GraphQL, PostgreSQL, SQL Server, MongoDB
+
+## ☁️ Cloud, Delivery & Quality
+AWS, Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps, Jest, Selenium, Prometheus, Grafana
 
 ## 📊 GitHub Activity
 
