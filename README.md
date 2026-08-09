@@ -16,7 +16,7 @@ I specialise in **React, Angular and TypeScript**, building accessible, responsi
 
 ## ✨ About Me
 
-* 💻 Frontend-focused Software Engineer with **3 years of software engineering experience**
+* 💻 Frontend-focused Software Engineer with **2+ years of software engineering experience**
 * 🧬 Built accessible Angular and TypeScript applications for the **NIH-funded Human Reference Atlas**
 * 🏥 Modernised React and full-stack healthcare products at **Tietoevry**
 * 🤖 Built AI-powered and cloud-native products using React, Spring Boot, AWS, Docker and Kubernetes
